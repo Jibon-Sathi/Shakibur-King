@@ -16,4 +16,4 @@ git clone https://github.com/Jibon-Sathi/Shakibur-King.git
 
 cd Shakibur-King
 
-python Shakib-Pro.py
+python3 Shakib-Pro.py
